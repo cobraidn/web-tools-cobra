@@ -1,0 +1,13 @@
+###### Requirements module ######
+python-whois
+sys
+socket
+os
+requests
+datetime
+json
+re
+concurrent
+time
+struct
+ssl
